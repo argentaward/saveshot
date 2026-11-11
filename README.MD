@@ -6,5 +6,4 @@ If you, like me, wonder why Windows 10/11 still doesn't automatically save cropp
 
 <div align="center">
   <img src="assets/settings.png" width="500" alt="Превью настроек" />
-  <h1>Saveshot</h1>
 </div>
